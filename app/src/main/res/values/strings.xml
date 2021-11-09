@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmailAppWithCompose</string>
+    <string name="inbox">Inbox</string>
+    <string name="profile_pic_description">Profile picture</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="favorite_description">Favorite</string>
+    <string name="menu">Menu</string>
+    <string name="compose">Compose</string>
+</resources>
